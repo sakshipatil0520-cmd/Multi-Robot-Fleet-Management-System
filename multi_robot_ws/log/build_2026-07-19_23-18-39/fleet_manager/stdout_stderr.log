@@ -1,0 +1,28 @@
+running develop
+running egg_info
+creating fleet_manager.egg-info
+writing fleet_manager.egg-info/PKG-INFO
+writing dependency_links to fleet_manager.egg-info/dependency_links.txt
+writing entry points to fleet_manager.egg-info/entry_points.txt
+writing requirements to fleet_manager.egg-info/requires.txt
+writing top-level names to fleet_manager.egg-info/top_level.txt
+writing manifest file 'fleet_manager.egg-info/SOURCES.txt'
+reading manifest file 'fleet_manager.egg-info/SOURCES.txt'
+writing manifest file 'fleet_manager.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/vboxuser/multi_robot_ws/install/fleet_manager/lib/python3.10/site-packages/fleet-manager.egg-link (link to .)
+Installing fleet_manager script to /home/vboxuser/multi_robot_ws/install/fleet_manager/lib/fleet_manager
+Installing robot2_status script to /home/vboxuser/multi_robot_ws/install/fleet_manager/lib/fleet_manager
+Installing robot_status script to /home/vboxuser/multi_robot_ws/install/fleet_manager/lib/fleet_manager
+
+Installed /home/vboxuser/multi_robot_ws/build/fleet_manager
+running symlink_data
+creating /home/vboxuser/multi_robot_ws/install/fleet_manager/share/ament_index
+creating /home/vboxuser/multi_robot_ws/install/fleet_manager/share/ament_index/resource_index
+creating /home/vboxuser/multi_robot_ws/install/fleet_manager/share/ament_index/resource_index/packages
+symbolically linking /home/vboxuser/multi_robot_ws/build/fleet_manager/resource/fleet_manager -> /home/vboxuser/multi_robot_ws/install/fleet_manager/share/ament_index/resource_index/packages
+symbolically linking /home/vboxuser/multi_robot_ws/build/fleet_manager/package.xml -> /home/vboxuser/multi_robot_ws/install/fleet_manager/share/fleet_manager
+creating /home/vboxuser/multi_robot_ws/install/fleet_manager/share/fleet_manager/launch
+symbolically linking /home/vboxuser/multi_robot_ws/build/fleet_manager/launch/multi_robot.launch.py -> /home/vboxuser/multi_robot_ws/install/fleet_manager/share/fleet_manager/launch
+symbolically linking /home/vboxuser/multi_robot_ws/build/fleet_manager/launch/fleet.launch.py -> /home/vboxuser/multi_robot_ws/install/fleet_manager/share/fleet_manager/launch
+symbolically linking /home/vboxuser/multi_robot_ws/build/fleet_manager/launch/navigation.launch.py -> /home/vboxuser/multi_robot_ws/install/fleet_manager/share/fleet_manager/launch

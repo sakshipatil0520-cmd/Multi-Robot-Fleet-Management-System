@@ -1,0 +1,5 @@
+[console_scripts]
+fleet_manager = fleet_manager.fleet_manager:main
+robot2_status = fleet_manager.robot2_status:main
+robot_status = fleet_manager.robot_status:main
+
